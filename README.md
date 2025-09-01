@@ -1,2 +1,3 @@
 # shadowrun-6e-core-net
-A utility library for 6e
+This library is meant to serve as an engine that can power other Shadowrun 6e applications.
+
